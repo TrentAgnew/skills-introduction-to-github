@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_We are going to beat you to death with hammers._
 
 </header>
 
